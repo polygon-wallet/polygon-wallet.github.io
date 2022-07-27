@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://polygon-wallet.github.io/sitemap.xml
